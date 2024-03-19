@@ -1,6 +1,3 @@
-Here's the formatted version for a README.md file:
-
-```markdown
 # Social Dev
 
 Social Dev is a full-stack MERN (MongoDB, Express, React, Node.js) application that serves as a social network platform for developers. It features authentication, user profiles, and a forum for posting and commenting.
@@ -53,4 +50,3 @@ To deploy the application to a production environment, follow these steps:
 1. Build the React app: `cd client && npm run build`
 2. Return to the project root: `cd ..`
 3. Start the server in production mode: `NODE_ENV=production node server.js`
-```
